@@ -1,26 +1,11 @@
 {
-  "name": "nosferatu",
-  "displayName": "Nosferatu",
+  "name": "nosferatu-theme",
+  "displayName": "Nosferatu Theme",
   "description": "A theme inspired by Sweet Dracula and focused on reducing eye strain during long coding sessions.",
-  "version": "1.0.0",
   "publisher": "nothingnothings",
   "author": "nothingnothings",
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Visual Studio Code",
-    "theme"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "My Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nosferatu.json"
-      }
-    ]
-  },
+  "version": "1.0.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/nothingnothings/nosferatu"
@@ -28,8 +13,29 @@
   "engines": {
     "vscode": "^1.56.0"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "vsce": "^2.15.0"
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Visual Studio Code",
+    "theme",
+    "dark",
+    "nosferatu",
+    "dracula",
+    "sweet dracula"
+  ],
+  "icon": "nosferatu.png",
+  "galleryBanner": {
+    "color": "#0c0e14",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nosferatu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nosferatu.json"
+      }
+    ]
   }
 }
