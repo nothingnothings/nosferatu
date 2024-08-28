@@ -167,7 +167,7 @@
     "extensionButton.prominentForeground": "#F8F8F2",
     "extensionButton.prominentBackground": "#50FA7B90",
     "extensionButton.prominentHoverBackground": "#50FA7B60",
-    "gitDecoration.modifiedResourceForeground": "#D47D7D",
+    "gitDecoration.modifiedResourceForeground": "#b9940b",
     "gitDecoration.deletedResourceForeground": "#EC0E0E",
     "gitDecoration.untrackedResourceForeground": "#6DBF6D",
     "gitDecoration.ignoredResourceForeground": "#6C6C6C",
@@ -420,7 +420,7 @@
       "name": "Function definitions",
       "scope": ["meta.definition.function", "meta.definition.method"],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#6DBF6D"
       }
     },
     {
@@ -455,7 +455,7 @@
         "support.function.transform.css"
       ],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#6DBF6D"
       }
     },
     {
@@ -589,7 +589,7 @@
       "name": "Variables and object properties",
       "scope": ["variable", "support.variable.property"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#8BE9FD"
       }
     },
     {

@@ -4,7 +4,7 @@
   "description": "A theme inspired by Sweet Dracula focused on reducing eye strain during long coding sessions.",
   "publisher": "nothingnothings",
   "author": "nothingnothings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
     "dark",
     "nosferatu",
     "dracula",
-    "sweet dracula"
+    "sweet dracula",
+    "eye comfort"
   ],
   "icon": "nosferatu.png",
   "galleryBanner": {
