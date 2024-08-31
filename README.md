@@ -10,6 +10,9 @@
 
 ![Screenshot](nosferatu-preview-2.png)
 
+<h3 align="center"><b>General Look</b></h3>
+
+![Screenshot](nosferatu-preview-3.png)
 
 ## Features
 
