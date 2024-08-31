@@ -1,6 +1,18 @@
-# Nosferatu Theme for [Visual Studio Code](http://code.visualstudio.com) and [VSCodium](https://vscodium.com/)
+<h1 align="center">Nosferatu Theme</h1>
 
-> A [Sweet Dracula](https://github.com/PROxZIMA/sweet-dracula)-inspired theme for [Visual Studio Code](http://code.visualstudio.com) and [VSCodium](https://vscodium.com/). The goal of the theme is to reduce eye strain during long coding sessions, by providing muted text colors on top of a blue-ish background.
+
+<p align="center">
+  <img src="nosferatu.png" alt="nosferatu-logo" width="120px" height="120px"/>
+  <br>
+  <i>“Let us chat together a moment, my friend! There are still <br> several hours until dawn,  and I sleep during the day.”
+    </i>
+  <br>
+</p>
+
+> A [Sweet Dracula](https://github.com/PROxZIMA/sweet-dracula)-inspired dark theme for [Visual Studio Code](http://code.visualstudio.com) and [VSCodium](https://vscodium.com/). The goal of the theme is to reduce eye strain during long coding sessions, by providing muted text colors on top of a blue-ish background.
+
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/nothingnothings.nosferatu-theme?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=nothingnothings.nosferatu-theme)
+
 
 <h3 align="center"><b>Text Editor</b></h3>
 
