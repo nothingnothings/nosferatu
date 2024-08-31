@@ -1,6 +1,6 @@
-# Nosferatu Theme for [Visual Studio Code](http://code.visualstudio.com)
+# Nosferatu Theme for [Visual Studio Code](http://code.visualstudio.com) and [VSCodium](https://vscodium.com/)
 
-> A Dracula-inspired theme for [Visual Studio Code](http://code.visualstudio.com). The goal of the theme is to reduce eye strain during long coding sessions, by providing muted text colors on top of a blue-ish background.
+> A Dracula-inspired theme for [Visual Studio Code](http://code.visualstudio.com) and [VSCodium](https://vscodium.com/). The goal of the theme is to reduce eye strain during long coding sessions, by providing muted text colors on top of a blue-ish background.
 
 <h3 align="center"><b>Text Editor</b></h3>
 
